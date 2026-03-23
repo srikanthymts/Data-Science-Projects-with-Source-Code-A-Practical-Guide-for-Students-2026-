@@ -57,3 +57,5 @@ These projects cover machine learning, NLP, and analytics.
 ## Conclusion
 
 Working on **data science projects with source code** is the best way to gain practical skills. Focus on solving real-world problems and understanding concepts deeply to succeed in data science.
+
+# https://takeoffprojects.com/data-science-projects-in-python
